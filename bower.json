@@ -1,0 +1,21 @@
+{
+  "name": "example2",
+  "homepage": "https://github.com/chadjowens/example2",
+  "authors": [
+    "CJO <chadjowens@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "modernizr": "^3.5.0"
+  }
+}
